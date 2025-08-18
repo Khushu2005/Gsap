@@ -40,6 +40,8 @@ body {
 .marquee h1 {
   font-size: 5vw;
   padding: 0 35px;
+  font-weight: 200;
+  
 }
 .marquee img {
   width: 5vw;
